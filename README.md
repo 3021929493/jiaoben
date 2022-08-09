@@ -4,4 +4,4 @@
 
 # 京东挂机
 自助登录挂机：
-http://47167111ko.zicp.vip/login
+http://jd.l484.com
